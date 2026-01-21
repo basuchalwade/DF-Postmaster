@@ -1,0 +1,5 @@
+{
+  "name": "PostMaster",
+  "description": "A production-ready MVP for social media management, featuring a React frontend and FastAPI backend running on Docker.",
+  "requestFramePermissions": []
+}
